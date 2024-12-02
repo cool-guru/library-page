@@ -1,0 +1,173 @@
+{
+   "Featured": {
+    "title": "Featured",
+    "subtitle": "Curated top picks from this week",
+    "items": [
+      {
+        "name": "KPI 1",
+        "description": "This is a description for KPI 1.",
+        "tags": ["tag1", "tag2", "tag3"],
+        "stats": {
+          "used": 2485,
+          "type": "Universal",
+          "pages": 6,
+          "lastUpdated": "07/23/2024"
+        },
+        "questions": [
+          {
+            "question": "Question 1",
+            "description": "Short description of the item goes nicely here."
+          },
+          {
+            "question": "Question 2",
+            "description": "Short description of the item goes nicely here."
+          },
+          {
+            "question": "Question 3",
+            "description": "Short description of the item goes nicely here."
+          },
+          {
+            "question": "Question 4",
+            "description": "Short description of the item goes nicely here."
+          }
+        ],
+        "restricted": false
+      },
+      {
+        "name": "Restricted KPI",
+        "description": "You do not have access to this KPI.",
+        "tags": ["restricted", "access", "denied"],
+        "stats": {
+          "used": 1023,
+          "type": "Restricted",
+          "pages": 3,
+          "lastUpdated": "06/15/2024"
+        },
+        "questions": [
+          {
+            "question": "Restricted Question 1",
+            "description": "Access required to view details."
+          },
+          {
+            "question": "Restricted Question 2",
+            "description": "Access required to view details."
+          }
+        ],
+        "restricted": true
+      }
+    ]
+  },
+  "KPI": {
+    "title": "Key Performance Indicators",
+    "subtitle": "Explore and track KPIs for better insights",
+    "items": [
+      {
+        "name": "Sales Growth",
+        "description": "Track the monthly sales growth across regions.",
+        "tags": ["sales", "growth", "monthly"],
+        "stats": {
+          "used": 542,
+          "type": "Graph",
+          "pages": 5,
+          "lastUpdated": "05/10/2024"
+        },
+        "questions": [
+          {
+            "question": "How is sales growth trending?",
+            "description": "Analyze regional growth trends over time."
+          },
+          {
+            "question": "What are the factors driving growth?",
+            "description": "Understand which strategies work best."
+          }
+        ],
+        "restricted": false
+      },{
+        "name": "Sales Growth",
+        "description": "Track the monthly sales growth across regions.",
+        "tags": ["sales", "growth", "monthly"],
+        "stats": {
+          "used": 542,
+          "type": "Graph",
+          "pages": 5,
+          "lastUpdated": "05/10/2024"
+        },
+        "questions": [
+          {
+            "question": "How is sales growth trending?",
+            "description": "Analyze regional growth trends over time."
+          },
+          {
+            "question": "What are the factors driving growth?",
+            "description": "Understand which strategies work best."
+          }
+        ],
+        "restricted": false
+      },{
+        "name": "Sales Growth",
+        "description": "Track the monthly sales growth across regions.",
+        "tags": ["sales", "growth", "monthly"],
+        "stats": {
+          "used": 542,
+          "type": "Graph",
+          "pages": 5,
+          "lastUpdated": "05/10/2024"
+        },
+        "questions": [
+          {
+            "question": "How is sales growth trending?",
+            "description": "Analyze regional growth trends over time."
+          },
+          {
+            "question": "What are the factors driving growth?",
+            "description": "Understand which strategies work best."
+          }
+        ],
+        "restricted": false
+      },
+      {
+        "name": "Revenue Analysis",
+        "description": "Analyze revenue streams and performance metrics.",
+        "tags": ["revenue", "analysis", "streams"],
+        "stats": {
+          "used": 1245,
+          "type": "Chart",
+          "pages": 7,
+          "lastUpdated": "06/01/2024"
+        },
+        "questions": [
+          {
+            "question": "What is the revenue distribution?",
+            "description": "Breakdown revenue by category."
+          },
+          {
+            "question": "Which streams are most profitable?",
+            "description": "Identify the most profitable revenue streams."
+          }
+        ],
+        "restricted": true
+      }
+    ]
+  },
+    "Layouts": {
+      "title": "Layouts",
+      "subtitle": "Popular layouts for presentations",
+      "items": [
+        { "name": "Layout 1", "description": "Description for Layout 1", "date": "08/01/2024" },
+        { "name": "Layout 2", "description": "Description for Layout 2", "date": "08/01/2024" },
+        { "name": "Layout 3", "description": "Description for Layout 3", "date": "08/01/2024" },
+        { "name": "Layout 4", "description": "Description for Layout 4", "date": "08/01/2024" }
+      ]
+    },
+    "Storyboards": {
+      "title": "Storyboards",
+      "subtitle": "Creative storyboards for inspiration",
+      "items": [
+        { "name": "Storyboard 1", "description": "Storyboard description here.", "date": "09/10/2024" },
+        { "name": "Storyboard 2", "description": "Storyboard description here.", "date": "09/10/2024" },
+        { "name": "Storyboard 3", "description": "Storyboard description here.", "date": "09/10/2024" },
+        { "name": "Storyboard 4", "description": "Another storyboard description.", "date": "09/10/2024" }
+      ]
+    }
+  }
+  
